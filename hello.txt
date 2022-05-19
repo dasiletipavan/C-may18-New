@@ -1,5 +1,5 @@
 
-hello welcome to the github learning"this is first hello line" 
+hello welcome to the github learning"this is deleted line" 
 
 
 this is the second commit for this file
